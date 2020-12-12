@@ -1,4 +1,6 @@
-### Hi there 👋, I'm Noemi! Welcome to my GitHub profile!
+## Noemi - @NomiDomi
+Hi, I'm Noemi - a full-stack developer, currently working on a project for a clothing company which specializez on laser cut fashion in Copenhagen called [Soma](https://www.instagram.com/soma.copenhagen/?hl=ro). On the side, I focus on personal projects such as TechStudium which is a theory support app for code writers, which enables them to work with concepts in a practice environment in order to be better prepared for interviews and exams.
+
 
 <!--
 **NomiDomi/NomiDomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
