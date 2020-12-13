@@ -1,6 +1,12 @@
 # Noemi - @NomiDomi
 Hi, I'm Noemi - a full-stack developer, currently working on a project for a clothing company which specializez on laser cut fashion in Copenhagen called [Soma](https://www.instagram.com/soma.copenhagen/?hl=ro). On the side, I focus on personal projects such as TechStudium - a theory support app for code writers, which enables them to work with concepts in a practice environment in order to be better prepared for interviews and exams.
 
+🌱 I’m currently learning more about Docker. 
+
+⚡ Fun fact: I have double citizenship and don't live in either of those two countries!
+
+😄 Pronouns: she/her/hers
+
 ## Programming Languages
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c#" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 
