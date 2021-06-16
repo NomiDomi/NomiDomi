@@ -8,10 +8,19 @@ Hi, I'm Noemi and I am currently working at Avanade as a Microsoft Fullstack Dev
 😄 Pronouns: she/her/hers
 
 ## Programming Languages
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://www.logolynx.com/images/logolynx/c5/c509c38cb89bcf556b2051222663f398.png" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c#" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+* JavaScript
+* TypeScript
+* NodeJS
+* C#
+* Python
+* HTML5
+* CSS3
 
 ## Databases
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  <a href="https://firebase.google.com/docs/firestore" target="_blank"> <img src="https://img.icons8.com/color/452/cloud-firestore.png" alt="firestore" width="40" height="40"/> </a>  
+**Structured**: 
+  * PostgreSQL, MySQL, 
+**Unstructured**:
+
 
 ## Frameworks and Technologies
 <a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://angular.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://pngimage.net/wp-content/uploads/2018/05/express-js-png-5.png" alt="express" width="40" height="40"/> </a>    <a href="https://koajs.com/" target="_blank"> <img src="https://aglowiditsolutions-6lohnuosd1nx.netdna-ssl.com/wp-content/uploads/2018/12/Koa.png" alt="koa" width="40" height="40"/> </a> <a href="https://graphql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/graphql.svg" alt="reactnative" width="40" height="40"/> </a>  <a href="https://cloud.google.com/dialogflow/docs/" target="_blank"> <img src="https://seeklogo.com/images/A/apiai-logo-77596EA86F-seeklogo.com.png" alt="dialogflow" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-us/services/bot-service/?&ef_id=CjwKCAiAlNf-BRB_EiwA2osbxQDLesrtMLfHLBsb-R1xGXFT8EcbrndgPF0aBWCOMRwd-NtkxUXxcRoCH0sQAvD_BwE:G:s&OCID=AID2100034_SEM_CjwKCAiAlNf-BRB_EiwA2osbxQDLesrtMLfHLBsb-R1xGXFT8EcbrndgPF0aBWCOMRwd-NtkxUXxcRoCH0sQAvD_BwE:G:s" target="_blank"> <img src="https://azure.microsoft.com/svghandler/bot-service/?width=600&height=315" alt="azure bot service" width="80" height="40"/> </a> 
