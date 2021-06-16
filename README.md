@@ -19,6 +19,8 @@ Hi, I'm Noemi and I am currently working at Avanade as a Microsoft Fullstack Dev
 ## Databases
 **Structured**: 
   * PostgreSQL, MySQL, 
+
+
 **Unstructured**:
 
 
