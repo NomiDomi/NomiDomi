@@ -1,7 +1,7 @@
 # Noemi - @NomiDomi
 Hi, I'm Noemi and I am currently working at Avanade as a Microsoft Fullstack Developer. On the side, I focus on personal projects such as TechStudium - a theory support app for code writers, which enables them to work with concepts in a practice environment in order to be better prepared for interviews and exams.
 
-🌱 I’m currently implementing a lot of the design challenges on frontendmentor.io
+🌱 I’m currently implementing various design challenges from frontendmentor.io
 
 ⚡ Fun fact: I have double citizenship and don't live in either of those two countries!
 
